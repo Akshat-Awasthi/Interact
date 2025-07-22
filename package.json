@@ -1,0 +1,16 @@
+{
+  "name": "interact",
+  "version": "1.0.0",
+  "description": "an alternative to React framework",
+  "license": "ISC",
+  "author": "Akshat Awasthi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akshat-Awasthi/Interact"
+  },
+  "type": "commonjs",
+  "main": "interact.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
