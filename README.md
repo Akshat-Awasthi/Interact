@@ -10,4 +10,4 @@ This project represents my journey in understanding how frontend frameworks work
 
 ## Reference & Learning Process
 
-I'm following [this guide](https://pomb.us/build-your-own-react/) to build Interact. Along the way, I'm also correcting some mistakes and adapting concepts to fit my own approach.
+I'm following [@pomber's guide](https://pomb.us/build-your-own-react/) to build Interact. Along the way, I'm also correcting some mistakes and adapting concepts to fit my own approach.
